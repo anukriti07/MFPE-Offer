@@ -53,7 +53,6 @@ public class OfferController {
 
 	/**
 	 * returns offer filtered by category
-	 * 
 	 * @param category
 	 * @return
 	 * @throws OfferNotFoundException
